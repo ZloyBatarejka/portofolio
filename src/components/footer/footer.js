@@ -16,16 +16,23 @@ const Footer = () => (
     </div>
     <div className="links">
       <a
+        className="iconLink"
         href="https://vk.com/id45323051"
         target="_blank"
         rel="noopener noreferrer"
       >
         <i className="fab fa-vk fa-2x"></i>
       </a>
-      <a href="https://t.me/zloyshon" target="_blank" rel="noopener noreferrer">
+      <a
+        className="iconLink"
+        href="https://t.me/zloyshon"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
         <i className="fab fa-telegram-plane fa-2x"></i>
       </a>
       <a
+        className="iconLink"
         href="https://github.com/ZloyBatarejka"
         target="_blank"
         rel="noopener noreferrer"
@@ -33,6 +40,7 @@ const Footer = () => (
         <i className="fab fa-github-square fa-2x"></i>
       </a>
       <a
+        className="iconLink"
         href="https://ru.linkedin.com/"
         target="_blank"
         rel="noopener noreferrer"
