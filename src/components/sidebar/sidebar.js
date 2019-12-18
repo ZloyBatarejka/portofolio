@@ -17,7 +17,7 @@ class Sidebar extends Component {
               <NavLink
                 exact
                 className="nav-link"
-                to="/"
+                to="/about"
                 onClick={() => {
                   this.setState({ hidden: !this.state.hidden });
                 }}
