@@ -1,0 +1,60 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.Card {
+  margin: 0 auto;
+  height: 370px;
+  width: 250px;
+  background: white;
+  display: flex;
+  flex-direction: column;
+  border: 0px solid transparent;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 1.2px 7px 12.1px rgba(0, 0, 0, 0.54);
+}
+.Card:hover {
+  transform: scale(1.01);
+}
+.CardImageWrapper {
+  flex: 5;
+}
+.CardInfo {
+  flex: 5;
+
+  background: white;
+}
+.CardTitle {
+  text-align: center;
+  margin: 10px 0;
+}
+.overline {
+  height: 50%;
+  width: 2px;
+  background: #2c1b28;
+}
+.CardDesc {
+  padding: 15px;
+}
+.underline {
+  height: 2px;
+  width: 100%;
+  background: #2c1b28;
+}
+.CardInfo img {
+  height: 100%;
+  width: 100%;
+}
+.CardLinks {
+  flex: 2;
+  background-image: linear-gradient(315deg, #fabc3c 0%, #ffd139 75%);
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.CardLinks a {
+  text-decoration: none;
+  color: #5f0a87;
+}
