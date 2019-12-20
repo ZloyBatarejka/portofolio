@@ -3,6 +3,14 @@ import "../css/projects.css";
 import Card from "../../components/card/card";
 import { tutorialProjectCards } from "../../projects";
 class TutProjects extends Component {
+  componentDidMount() {
+    let cards = document.querySelectorAll(".Card");
+    let initDuration = 1;
+    cards.forEach(card => {
+      card.style.animationDuration = initDuration + "s";
+      initDuration += 0.1;
+    });
+  }
   render() {
     const cards = tutorialProjectCards.map((project, index) => {
       return (

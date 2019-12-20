@@ -5,9 +5,11 @@ import MyProjects from "../../pages/MyProjects/MyProjects";
 import About from "../../pages/About/About";
 import TutProjects from "../../pages/TutProjects/TutProjects";
 import Landing from "../../pages/Landing/Landing";
+//github page shenanigans
 const Main = () => (
   <main className="main">
     <Route path="/" exact component={About} />
+    <Route path="/portofolio" exact component={About} />
     <Route path="/about" exact component={About} />
     <Route path="/myprojects" component={MyProjects} />
     <Route path="/tutprojects" component={TutProjects} />
