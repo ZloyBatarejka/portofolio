@@ -82,12 +82,14 @@
     opacity: 0;
     flex-direction: column;
     background: #2c1b28;
-    justify-content: flex-start;
+    justify-content: space-around;
     position: absolute;
-    top: 45px;
+    top: 5vh;
+    height: 95vh;
     right: 0%;
   }
   .sidebar {
+    height: 5vh;
     display: flex;
     justify-content: flex-end;
     align-items: center;
