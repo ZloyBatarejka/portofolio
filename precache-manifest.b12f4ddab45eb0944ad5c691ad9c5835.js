@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d239d77eecdf17af3208f2d01ec9ef49",
+    "revision": "6b1482970df9db647b196371da44f3eb",
     "url": "/portofolio/index.html"
   },
   {
-    "revision": "16efeaabfa5b4c4b2a8a",
+    "revision": "28308a920c6c6379506d",
     "url": "/portofolio/static/css/main.45ea5359.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portofolio/static/js/2.de8546f0.chunk.js"
   },
   {
-    "revision": "16efeaabfa5b4c4b2a8a",
-    "url": "/portofolio/static/js/main.0a20ae8e.chunk.js"
+    "revision": "28308a920c6c6379506d",
+    "url": "/portofolio/static/js/main.3d3b200d.chunk.js"
   },
   {
     "revision": "24a84e09a595f5aefaef",
@@ -102,6 +102,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "02e8766f9806c148d4e162cf96bc66e1",
     "url": "/portofolio/static/media/snake.02e8766f.jpg"
+  },
+  {
+    "revision": "6f410b532416d31f3905efd93887bfd6",
+    "url": "/portofolio/static/media/solomusic.6f410b53.jpg"
   },
   {
     "revision": "493e7d983a013b80d53d73482bdbe424",
