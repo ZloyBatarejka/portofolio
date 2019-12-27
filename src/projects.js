@@ -149,6 +149,14 @@ const tutorialProjectCards = [
 ];
 const landingProjectCards = [
   {
+    image: require("./img/cards/myproj/solomusic.jpg"),
+    title: "Solomusic",
+    desc: `Practising flexbox and custom grid`,
+    repo: "https://github.com/ZloyBatarejka/solomusic",
+    page: "https://zloybatarejka.github.io/solomusic/solo.html",
+    id: (Math.random() * 1e8).toString(16)
+  },
+  {
     image: require("./img/cards/myproj/red.jpg"),
     title: "Reds",
     desc: `Practising SASS`,
