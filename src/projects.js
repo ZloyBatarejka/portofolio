@@ -8,6 +8,14 @@ const myProjectsCards = [
     id: (Math.random() * 1e8).toString(16)
   },
   {
+    image: require("./img/cards/myproj/typing.jpg"),
+    title: "ST",
+    desc: "Speed typing app, 3 options: 1,2,3 min",
+    repo: "https://github.com/ZloyBatarejka/ST",
+    page: "https://zloybatarejka.github.io/ST/type.html",
+    id: (Math.random() * 1e8).toString(16)
+  },
+  {
     image: require("./img/cards/myproj/lightbox.jpg"),
     title: "lightbox",
     desc: "Image lightbox, arrow keys and buttons to slide.",
