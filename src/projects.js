@@ -90,6 +90,14 @@ const tutorialProjectCards = [
     id: (Math.random() * 1e8).toString(16)
   },
   {
+    image: require("./img/cards/myproj/tictactoe.jpg"),
+    title: "TicTacToe",
+    desc: `TicTacToe with scoreboard`,
+    repo: "https://github.com/ZloyBatarejka/tictactoe",
+    page: "https://zloybatarejka.github.io/tictactoe/ttt.html",
+    id: (Math.random() * 1e8).toString(16)
+  },
+  {
     image: require("./img/cards/myproj/revolution.jpg"),
     title: "Revo",
     desc: `Animate by scrolling. (ScrollMagic library)`,
