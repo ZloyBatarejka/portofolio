@@ -24,6 +24,7 @@ const About = () => (
           <ul>
             <li>USATU,Business informatics: 2014-2018</li>
             <li>Udemy React course: 10.10.19-27.11.19</li>
+            <li>Udemy PHP course: 28.12.19-13.01.20</li>
             <li>Self-education: 01.07.19 - c.t.</li>
           </ul>
         </div>
