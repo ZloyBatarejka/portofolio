@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6052da0786404ffc66e4a68659c77afd",
+    "revision": "f9192fd3db555040da43da86521b041a",
     "url": "/portofolio/index.html"
   },
   {
-    "revision": "8e821065fd1b2fd60442",
+    "revision": "c29a7a77a78ac1018d21",
     "url": "/portofolio/static/css/main.45ea5359.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portofolio/static/js/2.de8546f0.chunk.js"
   },
   {
-    "revision": "8e821065fd1b2fd60442",
-    "url": "/portofolio/static/js/main.caaf7a34.chunk.js"
+    "revision": "c29a7a77a78ac1018d21",
+    "url": "/portofolio/static/js/main.c880337e.chunk.js"
   },
   {
     "revision": "24a84e09a595f5aefaef",
@@ -22,6 +22,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "765dc57e18f4cd8e46afa316ed4c26e4",
     "url": "/portofolio/static/media/again.765dc57e.jpg"
+  },
+  {
+    "revision": "1bd5f92a2f8b9b6e41104474471b3eb3",
+    "url": "/portofolio/static/media/ask.1bd5f92a.jpg"
   },
   {
     "revision": "ea773e426b598b7eba4989a9ef3645b5",
@@ -50,6 +54,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c654fb747fc45df8cd08add4f5fab1a3",
     "url": "/portofolio/static/media/clock.c654fb74.jpg"
+  },
+  {
+    "revision": "a9e8dfe42f707c374c0d2918ba847ca0",
+    "url": "/portofolio/static/media/ctulhu.a9e8dfe4.jpg"
   },
   {
     "revision": "92049381829677be15739d02d002f931",
@@ -108,16 +116,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portofolio/static/media/solomusic.6f410b53.jpg"
   },
   {
-    "revision": "493e7d983a013b80d53d73482bdbe424",
-    "url": "/portofolio/static/media/ticker.493e7d98.jpg"
-  },
-  {
     "revision": "043e1c221c8c69eb615fab3247e777ef",
     "url": "/portofolio/static/media/tictactoe.043e1c22.jpg"
-  },
-  {
-    "revision": "8b34e6444edefc52023e6278428ff12a",
-    "url": "/portofolio/static/media/timer.8b34e644.jpg"
   },
   {
     "revision": "80ad01989706a6869f1a3d34a67f2b25",

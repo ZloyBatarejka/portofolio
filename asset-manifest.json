@@ -1,17 +1,18 @@
 {
   "files": {
     "main.css": "/portofolio/static/css/main.45ea5359.chunk.css",
-    "main.js": "/portofolio/static/js/main.caaf7a34.chunk.js",
-    "main.js.map": "/portofolio/static/js/main.caaf7a34.chunk.js.map",
+    "main.js": "/portofolio/static/js/main.c880337e.chunk.js",
+    "main.js.map": "/portofolio/static/js/main.c880337e.chunk.js.map",
     "runtime-main.js": "/portofolio/static/js/runtime-main.d5d004b3.js",
     "runtime-main.js.map": "/portofolio/static/js/runtime-main.d5d004b3.js.map",
     "static/js/2.de8546f0.chunk.js": "/portofolio/static/js/2.de8546f0.chunk.js",
     "static/js/2.de8546f0.chunk.js.map": "/portofolio/static/js/2.de8546f0.chunk.js.map",
     "index.html": "/portofolio/index.html",
-    "precache-manifest.4e444a10090fb701a6a5a63f2a5dd29e.js": "/portofolio/precache-manifest.4e444a10090fb701a6a5a63f2a5dd29e.js",
+    "precache-manifest.f8d21dcdf99b0bb1544b3a6f79f7b56e.js": "/portofolio/precache-manifest.f8d21dcdf99b0bb1544b3a6f79f7b56e.js",
     "service-worker.js": "/portofolio/service-worker.js",
     "static/css/main.45ea5359.chunk.css.map": "/portofolio/static/css/main.45ea5359.chunk.css.map",
     "static/media/again.jpg": "/portofolio/static/media/again.765dc57e.jpg",
+    "static/media/ask.jpg": "/portofolio/static/media/ask.1bd5f92a.jpg",
     "static/media/main.css": "/portofolio/static/media/background.ea773e42.jpg",
     "static/media/bird.jpg": "/portofolio/static/media/bird.f75d8d27.jpg",
     "static/media/bootstrain.jpg": "/portofolio/static/media/bootstrain.07895819.jpg",
@@ -19,6 +20,7 @@
     "static/media/bt4.jpg": "/portofolio/static/media/bt4.dd11a894.jpg",
     "static/media/calculator.jpg": "/portofolio/static/media/calculator.113c94d3.jpg",
     "static/media/clock.jpg": "/portofolio/static/media/clock.c654fb74.jpg",
+    "static/media/ctulhu.jpg": "/portofolio/static/media/ctulhu.a9e8dfe4.jpg",
     "static/media/dots.jpg": "/portofolio/static/media/dots.92049381.jpg",
     "static/media/keycode.jpg": "/portofolio/static/media/keycode.1a20534d.jpg",
     "static/media/lightbox.jpg": "/portofolio/static/media/lightbox.75f9918c.jpg",
@@ -33,9 +35,7 @@
     "static/media/revolution.jpg": "/portofolio/static/media/revolution.ee047cf3.jpg",
     "static/media/snake.jpg": "/portofolio/static/media/snake.02e8766f.jpg",
     "static/media/solomusic.jpg": "/portofolio/static/media/solomusic.6f410b53.jpg",
-    "static/media/ticker.jpg": "/portofolio/static/media/ticker.493e7d98.jpg",
     "static/media/tictactoe.jpg": "/portofolio/static/media/tictactoe.043e1c22.jpg",
-    "static/media/timer.jpg": "/portofolio/static/media/timer.8b34e644.jpg",
     "static/media/todo.jpg": "/portofolio/static/media/todo.80ad0198.jpg",
     "static/media/typing.jpg": "/portofolio/static/media/typing.58c717de.jpg",
     "static/media/witcher.jpg": "/portofolio/static/media/witcher.9ed6de0e.jpg"
@@ -44,6 +44,6 @@
     "static/js/runtime-main.d5d004b3.js",
     "static/js/2.de8546f0.chunk.js",
     "static/css/main.45ea5359.chunk.css",
-    "static/js/main.caaf7a34.chunk.js"
+    "static/js/main.c880337e.chunk.js"
   ]
 }
