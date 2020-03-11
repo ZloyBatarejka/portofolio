@@ -16,6 +16,22 @@ const myProjectsCards = [
     id: (Math.random() * 1e8).toString(16)
   },
   {
+    image: require("./img/cards/myproj/ask.jpg"),
+    title: "ASkme",
+    desc: "Askme project. Firebase host/database. Check info for password",
+    repo: "https://github.com/ZloyBatarejka/ASKme",
+    page: "https://askme-a22dc.firebaseapp.com/",
+    id: (Math.random() * 1e8).toString(16)
+  },
+  {
+    image: require("./img/cards/myproj/ctulhu.jpg"),
+    title: "Ctulhu",
+    desc: "Ctulhu bestiary. Dynamic page.",
+    repo: "https://github.com/ZloyBatarejka/Ctulhu",
+    page: "https://zloybatarejka.github.io/Ctulhu/index.html",
+    id: (Math.random() * 1e8).toString(16)
+  },
+  {
     image: require("./img/cards/myproj/lightbox.jpg"),
     title: "lightbox",
     desc: "Image lightbox, arrow keys and buttons to slide.",
@@ -56,27 +72,11 @@ const myProjectsCards = [
     id: (Math.random() * 1e8).toString(16)
   },
   {
-    image: require("./img/cards/myproj/timer.jpg"),
-    title: "Timer",
-    desc: "Timer with start/stop control buttons.",
-    repo: "https://github.com/ZloyBatarejka/MyTimer",
-    page: "https://zloybatarejka.github.io/MyTimer/timer.html",
-    id: (Math.random() * 1e8).toString(16)
-  },
-  {
     image: require("./img/cards/myproj/witcher.jpg"),
     title: "Witcher",
     desc: `"Choose your figher" simulator`,
     repo: "https://github.com/ZloyBatarejka/Witcher",
     page: "https://zloybatarejka.github.io/Witcher/index.html",
-    id: (Math.random() * 1e8).toString(16)
-  },
-  {
-    image: require("./img/cards/myproj/ticker.jpg"),
-    title: "Witcher",
-    desc: `Ticking age. Birthday is cached. (supposed to motivate)`,
-    repo: "https://github.com/ZloyBatarejka/ticker",
-    page: "https://zloybatarejka.github.io/ticker/ticker.html",
     id: (Math.random() * 1e8).toString(16)
   }
 ];
