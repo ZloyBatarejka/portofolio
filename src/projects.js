@@ -181,6 +181,14 @@ const landingProjectCards = [
     id: (Math.random() * 1e8).toString(16)
   },
   {
+    image: require("./img/cards/myproj/sen.jpg"),
+    title: "Sennheiser",
+    desc: `Practising bootstrap`,
+    repo: "https://github.com/ZloyBatarejka/sennheiser",
+    page: "https://zloybatarejka.github.io/sennheiser/sen.html ",
+    id: (Math.random() * 1e8).toString(16)
+  },
+  {
     image: require("./img/cards/myproj/bootstrain.jpg"),
     title: "Bootstrain",
     desc: `Practising bootstrap`,
