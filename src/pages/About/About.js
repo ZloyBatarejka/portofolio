@@ -23,7 +23,7 @@ const About = () => (
         <div className="content">
           <ul>
             <li>USATU,Business informatics: 2014-2018</li>
-            <li>Udemy React course: 10.10.19-27.11.19</li>
+            <li>Udemy React course: 10.10.19-20.11.19</li>
             <li>Udemy PHP course: 28.12.19-13.01.20</li>
             <li>Self-education: 01.07.19 - c.t.</li>
           </ul>
@@ -37,7 +37,8 @@ const About = () => (
           <ul>
             <li>HTML5</li>
             <li>CSS(Bootstrap,Sass)</li>
-            <li>JS(ES5,ES6 syntax, React)</li>
+            <li>JS(ES7 syntax, React, jQuery)</li>
+            <li>Other(npm,webpack,Adone Photoshopg,Git)</li>
           </ul>
         </div>
       </div>
