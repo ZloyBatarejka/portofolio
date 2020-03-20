@@ -8,6 +8,14 @@ const myProjectsCards = [
     id: (Math.random() * 1e8).toString(16)
   },
   {
+    image: require("./img/cards/myproj/wakanda.jpg"),
+    title: "Wakanda",
+    desc: `Layout with custom JS`,
+    repo: "https://github.com/ZloyBatarejka/wakanda",
+    page: "https://wakanda-4b15d.firebaseapp.com/",
+    id: (Math.random() * 1e8).toString(16)
+  },
+  {
     image: require("./img/cards/myproj/typing.jpg"),
     title: "ST",
     desc: "Speed typing app, 3 options: 1,2,3 min",
@@ -69,14 +77,6 @@ const myProjectsCards = [
     desc: "Move mouse over squares to change their color.",
     repo: "https://github.com/ZloyBatarejka/mouseOver",
     page: "https://zloybatarejka.github.io/mouseOver/mouse.html",
-    id: (Math.random() * 1e8).toString(16)
-  },
-  {
-    image: require("./img/cards/myproj/witcher.jpg"),
-    title: "Witcher",
-    desc: `"Choose your figher" simulator`,
-    repo: "https://github.com/ZloyBatarejka/Witcher",
-    page: "https://zloybatarejka.github.io/Witcher/index.html",
     id: (Math.random() * 1e8).toString(16)
   }
 ];
@@ -230,3 +230,12 @@ const landingProjectCards = [
   }
 ];
 export { myProjectsCards, tutorialProjectCards, landingProjectCards };
+
+// {
+//   image: require("./img/cards/myproj/witcher.jpg"),
+//   title: "Witcher",
+//   desc: `"Choose your figher" simulator`,
+//   repo: "https://github.com/ZloyBatarejka/Witcher",
+//   page: "https://zloybatarejka.github.io/Witcher/index.html",
+//   id: (Math.random() * 1e8).toString(16)
+// }
