@@ -9,7 +9,7 @@ const myProjectsCards = [
   },
   {
     image: require("./img/cards/myproj/wakanda.jpg"),
-    title: "Wakanda",
+    title: "Wakandaa",
     desc: `Layout with custom JS`,
     repo: "https://github.com/ZloyBatarejka/wakanda",
     page: "https://wakanda-4b15d.firebaseapp.com/",
