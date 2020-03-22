@@ -90,6 +90,14 @@ const tutorialProjectCards = [
     id: (Math.random() * 1e8).toString(16)
   },
   {
+    image: require("./img/cards/myproj/git.jpg"),
+    title: "GitSearch",
+    desc: `React tutorial project`,
+    repo: "https://github.com/ZloyBatarejka/gitSearch",
+    page: "https://githubsearch-a88e7.firebaseapp.com/",
+    id: (Math.random() * 1e8).toString(16)
+  },
+  {
     image: require("./img/cards/myproj/tictactoe.jpg"),
     title: "TicTacToe",
     desc: `TicTacToe with scoreboard`,
@@ -113,14 +121,7 @@ const tutorialProjectCards = [
     page: "https://zloybatarejka.github.io/bird/test.html",
     id: (Math.random() * 1e8).toString(16)
   },
-  {
-    image: require("./img/cards/myproj/clock.jpg"),
-    title: "Clock",
-    desc: `Analog clock`,
-    repo: "https://github.com/ZloyBatarejka/clock",
-    page: "https://zloybatarejka.github.io/clock/test.html",
-    id: (Math.random() * 1e8).toString(16)
-  },
+
   {
     image: require("./img/cards/myproj/dots.jpg"),
     title: "Dots",
@@ -239,3 +240,11 @@ export { myProjectsCards, tutorialProjectCards, landingProjectCards };
 //   page: "https://zloybatarejka.github.io/Witcher/index.html",
 //   id: (Math.random() * 1e8).toString(16)
 // }
+// {
+//   image: require("./img/cards/myproj/clock.jpg"),
+//   title: "Clock",
+//   desc: `Analog clock`,
+//   repo: "https://github.com/ZloyBatarejka/clock",
+//   page: "https://zloybatarejka.github.io/clock/test.html",
+//   id: (Math.random() * 1e8).toString(16)
+// },
