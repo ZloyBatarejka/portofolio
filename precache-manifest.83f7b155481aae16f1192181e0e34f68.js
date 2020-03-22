@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2e5d0896c560e8d7992daa125bb8eaba",
+    "revision": "830f5bf49b66a9d0161d2a2f0d7c3e61",
     "url": "/portofolio/index.html"
   },
   {
-    "revision": "2a236ee637e7bd0c6f9e",
+    "revision": "caf4304fe5d9fd7993aa",
     "url": "/portofolio/static/css/main.45ea5359.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portofolio/static/js/2.de8546f0.chunk.js"
   },
   {
-    "revision": "2a236ee637e7bd0c6f9e",
-    "url": "/portofolio/static/js/main.5dda352d.chunk.js"
+    "revision": "caf4304fe5d9fd7993aa",
+    "url": "/portofolio/static/js/main.fa60345b.chunk.js"
   },
   {
     "revision": "24a84e09a595f5aefaef",
@@ -52,16 +52,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portofolio/static/media/calculator.113c94d3.jpg"
   },
   {
-    "revision": "c654fb747fc45df8cd08add4f5fab1a3",
-    "url": "/portofolio/static/media/clock.c654fb74.jpg"
-  },
-  {
     "revision": "a9e8dfe42f707c374c0d2918ba847ca0",
     "url": "/portofolio/static/media/ctulhu.a9e8dfe4.jpg"
   },
   {
     "revision": "92049381829677be15739d02d002f931",
     "url": "/portofolio/static/media/dots.92049381.jpg"
+  },
+  {
+    "revision": "b6935fbcfb5a37ae4ffeae200098b41e",
+    "url": "/portofolio/static/media/git.b6935fbc.jpg"
   },
   {
     "revision": "1a20534ddd93f1ba79bf12e53295d183",
