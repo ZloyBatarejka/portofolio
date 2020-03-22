@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/portofolio/static/css/main.45ea5359.chunk.css",
-    "main.js": "/portofolio/static/js/main.5dda352d.chunk.js",
-    "main.js.map": "/portofolio/static/js/main.5dda352d.chunk.js.map",
+    "main.js": "/portofolio/static/js/main.fa60345b.chunk.js",
+    "main.js.map": "/portofolio/static/js/main.fa60345b.chunk.js.map",
     "runtime-main.js": "/portofolio/static/js/runtime-main.d5d004b3.js",
     "runtime-main.js.map": "/portofolio/static/js/runtime-main.d5d004b3.js.map",
     "static/js/2.de8546f0.chunk.js": "/portofolio/static/js/2.de8546f0.chunk.js",
     "static/js/2.de8546f0.chunk.js.map": "/portofolio/static/js/2.de8546f0.chunk.js.map",
     "index.html": "/portofolio/index.html",
-    "precache-manifest.9563225c42d08f43a80a557fca6a42c2.js": "/portofolio/precache-manifest.9563225c42d08f43a80a557fca6a42c2.js",
+    "precache-manifest.83f7b155481aae16f1192181e0e34f68.js": "/portofolio/precache-manifest.83f7b155481aae16f1192181e0e34f68.js",
     "service-worker.js": "/portofolio/service-worker.js",
     "static/css/main.45ea5359.chunk.css.map": "/portofolio/static/css/main.45ea5359.chunk.css.map",
     "static/media/again.jpg": "/portofolio/static/media/again.765dc57e.jpg",
@@ -19,9 +19,9 @@
     "static/media/boxShadow.jpg": "/portofolio/static/media/boxShadow.f8b3744b.jpg",
     "static/media/bt4.jpg": "/portofolio/static/media/bt4.dd11a894.jpg",
     "static/media/calculator.jpg": "/portofolio/static/media/calculator.113c94d3.jpg",
-    "static/media/clock.jpg": "/portofolio/static/media/clock.c654fb74.jpg",
     "static/media/ctulhu.jpg": "/portofolio/static/media/ctulhu.a9e8dfe4.jpg",
     "static/media/dots.jpg": "/portofolio/static/media/dots.92049381.jpg",
+    "static/media/git.jpg": "/portofolio/static/media/git.b6935fbc.jpg",
     "static/media/keycode.jpg": "/portofolio/static/media/keycode.1a20534d.jpg",
     "static/media/lightbox.jpg": "/portofolio/static/media/lightbox.75f9918c.jpg",
     "static/media/maddyson.jpg": "/portofolio/static/media/maddyson.028244cf.jpg",
@@ -45,6 +45,6 @@
     "static/js/runtime-main.d5d004b3.js",
     "static/js/2.de8546f0.chunk.js",
     "static/css/main.45ea5359.chunk.css",
-    "static/js/main.5dda352d.chunk.js"
+    "static/js/main.fa60345b.chunk.js"
   ]
 }
