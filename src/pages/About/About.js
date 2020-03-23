@@ -12,7 +12,7 @@ const About = () => (
         <div className="content">
           <p>
             I am 23 y.o., tending to become a web developer. Currently working
-            as a projectionist in a movie theatre.
+            as a projectionist in a movie theatre.I'm ready to relocate.
           </p>
         </div>
       </div>
@@ -38,7 +38,7 @@ const About = () => (
             <li>HTML5</li>
             <li>CSS(Bootstrap,Sass)</li>
             <li>JS(ES7 syntax, React, jQuery)</li>
-            <li>Other(npm,webpack,AP,Git)</li>
+            <li>Other(npm,webpack,AP,Git,BEM)</li>
           </ul>
         </div>
       </div>
