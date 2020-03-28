@@ -8,15 +8,6 @@ const myProjectsCards = [
     id: (Math.random() * 1e8).toString(16)
   },
   {
-    image: require("./img/cards/myproj/wakanda.jpg"),
-    title: "Wakandaa",
-    desc: `Layout with custom JS`,
-    repo: "https://github.com/ZloyBatarejka/wakanda",
-    page: "https://wakanda-4b15d.firebaseapp.com/",
-    id: (Math.random() * 1e8).toString(16)
-  },
-
-  {
     image: require("./img/cards/myproj/ask.jpg"),
     title: "ASkme",
     desc: "Askme project. Firebase host/database. Check info for password",
@@ -46,6 +37,14 @@ const myProjectsCards = [
     desc: "Ctulhu bestiary. Dynamic page.",
     repo: "https://github.com/ZloyBatarejka/Ctulhu",
     page: "https://zloybatarejka.github.io/Ctulhu/index.html",
+    id: (Math.random() * 1e8).toString(16)
+  },
+  {
+    image: require("./img/cards/myproj/wakanda.jpg"),
+    title: "Wakandaa",
+    desc: `Layout with custom JS`,
+    repo: "https://github.com/ZloyBatarejka/notWakanda",
+    page: "https://notwakanda.firebaseapp.com/",
     id: (Math.random() * 1e8).toString(16)
   },
   {
