@@ -15,20 +15,29 @@ const myProjectsCards = [
     page: "https://wakanda-4b15d.firebaseapp.com/",
     id: (Math.random() * 1e8).toString(16)
   },
-  {
-    image: require("./img/cards/myproj/typing.jpg"),
-    title: "ST",
-    desc: "Speed typing app, 3 options: 1,2,3 min",
-    repo: "https://github.com/ZloyBatarejka/ST",
-    page: "https://zloybatarejka.github.io/ST/type.html",
-    id: (Math.random() * 1e8).toString(16)
-  },
+
   {
     image: require("./img/cards/myproj/ask.jpg"),
     title: "ASkme",
     desc: "Askme project. Firebase host/database. Check info for password",
     repo: "https://github.com/ZloyBatarejka/ASKme",
     page: "https://askme-a22dc.firebaseapp.com/",
+    id: (Math.random() * 1e8).toString(16)
+  },
+  {
+    image: require("./img/cards/myproj/video.jpg"),
+    title: "Video",
+    desc: "Video hosting Layour with custom JS",
+    repo: "https://github.com/ZloyBatarejka/movieTv",
+    page: "https://videotest-bbbf6.firebaseapp.com/",
+    id: (Math.random() * 1e8).toString(16)
+  },
+  {
+    image: require("./img/cards/myproj/typing.jpg"),
+    title: "ST",
+    desc: "Speed typing app, 3 options: 1,2,3 min",
+    repo: "https://github.com/ZloyBatarejka/ST",
+    page: "https://zloybatarejka.github.io/ST/type.html",
     id: (Math.random() * 1e8).toString(16)
   },
   {
@@ -63,14 +72,7 @@ const myProjectsCards = [
     page: "https://zloybatarejka.github.io/Calc/test.html",
     id: (Math.random() * 1e8).toString(16)
   },
-  {
-    image: require("./img/cards/myproj/keycode.jpg"),
-    title: "KeyCode",
-    desc: "Press key to get Key, Code, Key code.",
-    repo: "https://github.com/ZloyBatarejka/EventCode",
-    page: "https://zloybatarejka.github.io/EventCode/timer.html",
-    id: (Math.random() * 1e8).toString(16)
-  },
+
   {
     image: require("./img/cards/myproj/mouseover.jpg"),
     title: "MouseOver",
@@ -246,5 +248,13 @@ export { myProjectsCards, tutorialProjectCards, landingProjectCards };
 //   desc: `Analog clock`,
 //   repo: "https://github.com/ZloyBatarejka/clock",
 //   page: "https://zloybatarejka.github.io/clock/test.html",
+//   id: (Math.random() * 1e8).toString(16)
+// },
+// {
+//   image: require("./img/cards/myproj/keycode.jpg"),
+//   title: "KeyCode",
+//   desc: "Press key to get Key, Code, Key code.",
+//   repo: "https://github.com/ZloyBatarejka/EventCode",
+//   page: "https://zloybatarejka.github.io/EventCode/timer.html",
 //   id: (Math.random() * 1e8).toString(16)
 // },
