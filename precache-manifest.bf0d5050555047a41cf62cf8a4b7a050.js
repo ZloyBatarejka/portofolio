@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c8a931236ef35fd7d6c662801665fd14",
+    "revision": "aa46f0f4cb53507d38970e756b837d2c",
     "url": "/portofolio/index.html"
   },
   {
-    "revision": "14085e7e971949b09bf7",
-    "url": "/portofolio/static/css/main.45ea5359.chunk.css"
+    "revision": "31695f4c6498304e9ac3",
+    "url": "/portofolio/static/css/main.18a5805f.chunk.css"
   },
   {
     "revision": "9173e98047f6916be5e5",
     "url": "/portofolio/static/js/2.de8546f0.chunk.js"
   },
   {
-    "revision": "14085e7e971949b09bf7",
-    "url": "/portofolio/static/js/main.2215b920.chunk.js"
+    "revision": "31695f4c6498304e9ac3",
+    "url": "/portofolio/static/js/main.415b82d8.chunk.js"
   },
   {
     "revision": "24a84e09a595f5aefaef",
@@ -48,16 +48,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portofolio/static/media/bt4.dd11a894.jpg"
   },
   {
-    "revision": "113c94d3820dad95505a490d9f68eb32",
-    "url": "/portofolio/static/media/calculator.113c94d3.jpg"
-  },
-  {
     "revision": "a9e8dfe42f707c374c0d2918ba847ca0",
     "url": "/portofolio/static/media/ctulhu.a9e8dfe4.jpg"
   },
   {
     "revision": "92049381829677be15739d02d002f931",
     "url": "/portofolio/static/media/dots.92049381.jpg"
+  },
+  {
+    "revision": "6f1d951020be72782df9867ff3e9b5f2",
+    "url": "/portofolio/static/media/football.6f1d9510.jpg"
   },
   {
     "revision": "b6935fbcfb5a37ae4ffeae200098b41e",
