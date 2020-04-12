@@ -5,10 +5,10 @@ import { myProjectsCards } from "../../projects";
 class MyProjects extends Component {
   componentDidMount() {
     let cards = document.querySelectorAll(".Card");
-    let initDuration = 1;
-    cards.forEach(card => {
+    let initDuration = 0.3;
+    cards.forEach((card) => {
       card.style.animationDuration = initDuration + "s";
-      initDuration += 0.22;
+      initDuration += 0.11;
     });
   }
   render() {
@@ -24,7 +24,11 @@ class MyProjects extends Component {
         />
       );
     });
-    return <div className="Projects">{cards}</div>;
+    return (
+      <>
+        <div className="Projects">{cards}</div>
+      </>
+    );
   }
 }
 

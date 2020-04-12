@@ -1,8 +1,7 @@
 .main {
-    grid-area: main;
-    background: linear-gradient(326deg, #5f0a87 0%, rgba(164, 80, 139, .92) 74%),
+  grid-area: main;
+  background: linear-gradient(326deg, #5f0a87 0%, rgba(164, 80, 139, 0.92) 74%),
     url("../../img//background.jpg") center no-repeat;
-    background-size: cover;
-    
-  }
-  
+  background-size: cover;
+  overflow: auto;
+}
