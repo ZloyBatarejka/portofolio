@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "108bf16aeb3f64f9c069e78b46872125",
+    "revision": "c1db99ce8496a4be5b9393b3ae69d1fd",
     "url": "/portofolio/index.html"
   },
   {
-    "revision": "578180795a1d245b0c8a",
-    "url": "/portofolio/static/css/main.18a5805f.chunk.css"
+    "revision": "fbc9dd903dfeb1dbc97f",
+    "url": "/portofolio/static/css/main.929a702b.chunk.css"
   },
   {
     "revision": "9173e98047f6916be5e5",
     "url": "/portofolio/static/js/2.de8546f0.chunk.js"
   },
   {
-    "revision": "578180795a1d245b0c8a",
-    "url": "/portofolio/static/js/main.2921bc43.chunk.js"
+    "revision": "fbc9dd903dfeb1dbc97f",
+    "url": "/portofolio/static/js/main.bae749ff.chunk.js"
   },
   {
     "revision": "24a84e09a595f5aefaef",
@@ -48,6 +48,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portofolio/static/media/bt4.dd11a894.jpg"
   },
   {
+    "revision": "113c94d3820dad95505a490d9f68eb32",
+    "url": "/portofolio/static/media/calculator.113c94d3.jpg"
+  },
+  {
+    "revision": "c654fb747fc45df8cd08add4f5fab1a3",
+    "url": "/portofolio/static/media/clock.c654fb74.jpg"
+  },
+  {
     "revision": "a9e8dfe42f707c374c0d2918ba847ca0",
     "url": "/portofolio/static/media/ctulhu.a9e8dfe4.jpg"
   },
@@ -62,6 +70,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b6935fbcfb5a37ae4ffeae200098b41e",
     "url": "/portofolio/static/media/git.b6935fbc.jpg"
+  },
+  {
+    "revision": "1a20534ddd93f1ba79bf12e53295d183",
+    "url": "/portofolio/static/media/keycode.1a20534d.jpg"
   },
   {
     "revision": "75f9918ce555d59c432e26ee4c29eee2",
@@ -134,5 +146,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e031d938ff60139420ce7dc445b5aec5",
     "url": "/portofolio/static/media/wakanda.e031d938.jpg"
+  },
+  {
+    "revision": "9ed6de0e13197811b394bc371353904c",
+    "url": "/portofolio/static/media/witcher.9ed6de0e.jpg"
   }
 ]);
