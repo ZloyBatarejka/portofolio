@@ -5,3 +5,8 @@
   background-size: cover;
   overflow: auto;
 }
+@media screen and (max-width: 1400px) {
+ .main {
+   overflow: visible ;
+ }
+}
