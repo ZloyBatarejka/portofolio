@@ -11,8 +11,8 @@ const About = () => (
         </div>
         <div className="content">
           <p>
-            I am 24 y.o., tending to become a web developer. Currently working
-            as a projectionist in a movie theatre.I'm ready to relocate.
+            I am 24 y.o., tending to become a web developer.I'm ready to
+            relocate.
           </p>
         </div>
       </div>
@@ -37,7 +37,7 @@ const About = () => (
           <ul>
             <li>HTML5</li>
             <li>CSS(Bootstrap,Sass)</li>
-            <li>JS(ES7 syntax, React, jQuery)</li>
+            <li>JS(ES7 syntax, React, jQuery, TS)</li>
             <li>Other(npm,webpack,AP,Git,BEM)</li>
           </ul>
         </div>
