@@ -1,20 +1,21 @@
 {
   "files": {
     "main.css": "/portofolio/static/css/main.66c319b5.chunk.css",
-    "main.js": "/portofolio/static/js/main.949dc8d7.chunk.js",
-    "main.js.map": "/portofolio/static/js/main.949dc8d7.chunk.js.map",
+    "main.js": "/portofolio/static/js/main.7725d257.chunk.js",
+    "main.js.map": "/portofolio/static/js/main.7725d257.chunk.js.map",
     "runtime-main.js": "/portofolio/static/js/runtime-main.d5d004b3.js",
     "runtime-main.js.map": "/portofolio/static/js/runtime-main.d5d004b3.js.map",
     "static/js/2.de8546f0.chunk.js": "/portofolio/static/js/2.de8546f0.chunk.js",
     "static/js/2.de8546f0.chunk.js.map": "/portofolio/static/js/2.de8546f0.chunk.js.map",
     "index.html": "/portofolio/index.html",
-    "precache-manifest.c7541a7a36d0a6169e54b71565f19908.js": "/portofolio/precache-manifest.c7541a7a36d0a6169e54b71565f19908.js",
+    "precache-manifest.65b08e1813a5ff9dd70ef1f66ec79d5d.js": "/portofolio/precache-manifest.65b08e1813a5ff9dd70ef1f66ec79d5d.js",
     "service-worker.js": "/portofolio/service-worker.js",
     "static/css/main.66c319b5.chunk.css.map": "/portofolio/static/css/main.66c319b5.chunk.css.map",
     "static/media/again.jpg": "/portofolio/static/media/again.765dc57e.jpg",
     "static/media/ask.jpg": "/portofolio/static/media/ask.1bd5f92a.jpg",
     "static/media/main.css": "/portofolio/static/media/background.ea773e42.jpg",
     "static/media/bird.jpg": "/portofolio/static/media/bird.f75d8d27.jpg",
+    "static/media/bitcoin.jpg": "/portofolio/static/media/bitcoin.7e8a3974.jpg",
     "static/media/bootstrain.jpg": "/portofolio/static/media/bootstrain.07895819.jpg",
     "static/media/boxShadow.jpg": "/portofolio/static/media/boxShadow.f8b3744b.jpg",
     "static/media/bt4.jpg": "/portofolio/static/media/bt4.dd11a894.jpg",
@@ -27,7 +28,6 @@
     "static/media/keycode.jpg": "/portofolio/static/media/keycode.1a20534d.jpg",
     "static/media/lightbox.jpg": "/portofolio/static/media/lightbox.75f9918c.jpg",
     "static/media/maddyson.jpg": "/portofolio/static/media/maddyson.028244cf.jpg",
-    "static/media/menu.jpg": "/portofolio/static/media/menu.cbd1e741.jpg",
     "static/media/mouseover.jpg": "/portofolio/static/media/mouseover.0dd9713c.jpg",
     "static/media/music.jpg": "/portofolio/static/media/music.d78b3ad0.jpg",
     "static/media/no.jpg": "/portofolio/static/media/no.91793208.jpg",
@@ -49,6 +49,6 @@
     "static/js/runtime-main.d5d004b3.js",
     "static/js/2.de8546f0.chunk.js",
     "static/css/main.66c319b5.chunk.css",
-    "static/js/main.949dc8d7.chunk.js"
+    "static/js/main.7725d257.chunk.js"
   ]
 }
