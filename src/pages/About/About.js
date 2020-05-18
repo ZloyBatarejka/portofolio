@@ -37,8 +37,8 @@ const About = () => (
           <ul>
             <li>HTML5</li>
             <li>CSS(Bootstrap,Sass)</li>
-            <li>JS(ES7 syntax, React, jQuery, TS)</li>
-            <li>Other(npm,webpack,AP,Git,BEM)</li>
+            <li>JS(ES7 syntax, React-Redux, jQuery, TS)</li>
+            <li>Other(AP,Git,BEM,npm,webpack)</li>
           </ul>
         </div>
       </div>

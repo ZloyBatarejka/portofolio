@@ -1,5 +1,13 @@
 const myProjectsCards = [
   {
+    image: require("./img/cards/myproj/moviefave.jpg"),
+    title: "MovieFavority",
+    desc: "React-Redux+TypeScript project. Firebase Auth/DB.",
+    repo: "https://github.com/ZloyBatarejka/moviefave",
+    page: "https://moviefave-56a11.firebaseapp.com/",
+    id: (Math.random() * 1e8).toString(16),
+  },
+  {
     image: require("./img/cards/myproj/todo.jpg"),
     title: "TODO",
     desc: "React-Redux (+eslint) TODO. Firebase DB.",
@@ -130,6 +138,14 @@ const tutorialProjectCards = [
     id: (Math.random() * 1e8).toString(16),
   },
   {
+    image: require("./img/cards/myproj/bitcoin.jpg"),
+    title: "Bitcoin",
+    desc: `TS React+Mobx crypto currency table with autoupdate`,
+    repo: "https://github.com/ZloyBatarejka/bitcoin",
+    page: "https://askme-adbf2.firebaseapp.com/",
+    id: (Math.random() * 1e8).toString(16),
+  },
+  {
     image: require("./img/cards/myproj/tictactoe.jpg"),
     title: "TicTacToe",
     desc: `TicTacToe with scoreboard`,
@@ -160,14 +176,6 @@ const tutorialProjectCards = [
     desc: `Floating dots`,
     repo: "https://github.com/ZloyBatarejka/dots",
     page: "https://zloybatarejka.github.io/dots/test.html",
-    id: (Math.random() * 1e8).toString(16),
-  },
-  {
-    image: require("./img/cards/myproj/menu.jpg"),
-    title: "Menu",
-    desc: `Circle menu`,
-    repo: "https://github.com/ZloyBatarejka/menu",
-    page: "https://zloybatarejka.github.io/menu/timer.html",
     id: (Math.random() * 1e8).toString(16),
   },
   {
