@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e8350d1b7ff76628f335bb08334fa4e5",
+    "revision": "dad958c481bdaf96c2556cb3e476ab19",
     "url": "/portofolio/index.html"
   },
   {
-    "revision": "309301b96299da6bdb7f",
+    "revision": "d176ead9d23d262a9a13",
     "url": "/portofolio/static/css/main.66c319b5.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portofolio/static/js/2.de8546f0.chunk.js"
   },
   {
-    "revision": "309301b96299da6bdb7f",
-    "url": "/portofolio/static/js/main.3d7f3c32.chunk.js"
+    "revision": "d176ead9d23d262a9a13",
+    "url": "/portofolio/static/js/main.32d21ccd.chunk.js"
   },
   {
     "revision": "24a84e09a595f5aefaef",
@@ -66,10 +66,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "92049381829677be15739d02d002f931",
     "url": "/portofolio/static/media/dots.92049381.jpg"
-  },
-  {
-    "revision": "6f1d951020be72782df9867ff3e9b5f2",
-    "url": "/portofolio/static/media/football.6f1d9510.jpg"
   },
   {
     "revision": "b6935fbcfb5a37ae4ffeae200098b41e",
