@@ -1,7 +1,7 @@
 const myProjectsCards = [
   {
     image: require("./img/cards/myproj/moviefave.jpg"),
-    title: "MovieFavority",
+    title: "MovieFavorite",
     desc: "React-Redux+TypeScript project. Firebase Auth/DB.",
     repo: "https://github.com/ZloyBatarejka/moviefave",
     page: "https://moviefave-56a11.firebaseapp.com/",
@@ -39,14 +39,7 @@ const myProjectsCards = [
     page: "https://zloybatarejka.github.io/ST/type.html",
     id: (Math.random() * 1e8).toString(16),
   },
-  {
-    image: require("./img/cards/myproj/football.jpg"),
-    title: "Football",
-    desc: "React project, football table with custom API (localhost only).",
-    repo: "https://github.com/ZloyBatarejka/ZloyBatarejka",
-    page: "https://football-4e3ae.firebaseapp.com/",
-    id: (Math.random() * 1e8).toString(16),
-  },
+
   {
     image: require("./img/cards/myproj/ctulhu.jpg"),
     title: "Ctulhu",
@@ -271,3 +264,12 @@ const landingProjectCards = [
   },
 ];
 export { myProjectsCards, tutorialProjectCards, landingProjectCards };
+
+// {
+//   image: require("./img/cards/myproj/football.jpg"),
+//   title: "Football",
+//   desc: "React project, football table with custom API (localhost only).",
+//   repo: "https://github.com/ZloyBatarejka/ZloyBatarejka",
+//   page: "https://football-4e3ae.firebaseapp.com/",
+//   id: (Math.random() * 1e8).toString(16),
+// },
