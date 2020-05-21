@@ -8,6 +8,14 @@ const myProjectsCards = [
     id: (Math.random() * 1e8).toString(16),
   },
   {
+    image: require("./img/cards/myproj/contacts.jpg"),
+    title: "Contacts",
+    desc: "React-Redux+TypeScript project. Firebase Auth.",
+    repo: "https://github.com/ZloyBatarejka/contacts",
+    page: "https://contacts-d78e8.firebaseapp.com/",
+    id: (Math.random() * 1e8).toString(16),
+  },
+  {
     image: require("./img/cards/myproj/todo.jpg"),
     title: "TODO",
     desc: "React-Redux (+eslint) TODO. Firebase DB.",
