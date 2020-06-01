@@ -16,6 +16,14 @@ const myProjectsCards = [
     id: (Math.random() * 1e8).toString(16),
   },
   {
+    image: require("./img/cards/myproj/squares.jpg"),
+    title: "Squares",
+    desc: "React-Redux+TypeScript project. Guess game.",
+    repo: "https://github.com/ZloyBatarejka/squares",
+    page: "https://zloybatarejka.github.io/squares/",
+    id: (Math.random() * 1e8).toString(16),
+  },
+  {
     image: require("./img/cards/myproj/todo.jpg"),
     title: "TODO",
     desc: "React-Redux (+eslint) TODO. Firebase DB.",
