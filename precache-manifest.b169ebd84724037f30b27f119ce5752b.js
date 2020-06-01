@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ad5c72131122f1c8911da855a89b131a",
+    "revision": "2a29d85e7020f1773fecf459a47e7073",
     "url": "/portofolio/index.html"
   },
   {
-    "revision": "620f91a8a145a21d7e2a",
+    "revision": "e820915d7e640cb3a17a",
     "url": "/portofolio/static/css/main.66c319b5.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portofolio/static/js/2.de8546f0.chunk.js"
   },
   {
-    "revision": "620f91a8a145a21d7e2a",
-    "url": "/portofolio/static/js/main.ddd1daea.chunk.js"
+    "revision": "e820915d7e640cb3a17a",
+    "url": "/portofolio/static/js/main.9013db30.chunk.js"
   },
   {
     "revision": "24a84e09a595f5aefaef",
@@ -130,6 +130,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6f410b532416d31f3905efd93887bfd6",
     "url": "/portofolio/static/media/solomusic.6f410b53.jpg"
+  },
+  {
+    "revision": "6ec02e58347d714e0c7567db006dbcbe",
+    "url": "/portofolio/static/media/squares.6ec02e58.jpg"
   },
   {
     "revision": "043e1c221c8c69eb615fab3247e777ef",
