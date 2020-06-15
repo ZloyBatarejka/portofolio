@@ -11,7 +11,7 @@ const About = () => (
         </div>
         <div className="content">
           <p>
-            I am 24 y.o., tending to become a web developer.I'm ready to
+            I am 24 years old. I'm ready to
             relocate.
           </p>
         </div>
@@ -23,9 +23,16 @@ const About = () => (
         <div className="content">
           <ul>
             <li>USATU,Business informatics: 2014-2018</li>
-            <li>Udemy React course: 10.10.19-20.11.19</li>
-            <li>Udemy PHP course: 28.12.19-13.01.20</li>
-            <li>Self-education: 01.07.19 - c.t.</li>
+          </ul>
+        </div>
+      </div>
+      <div className="infoBox">
+        <div className="header">
+          <h4>Experience</h4>
+        </div>
+        <div className="content">
+          <ul>
+            <li>Frontend develeoper: Takeoff-staff, 08.06.20 - c.t.</li>
           </ul>
         </div>
       </div>
@@ -35,10 +42,10 @@ const About = () => (
         </div>
         <div className="content">
           <ul>
-            <li>HTML5</li>
+            <li>HTML5(pug)</li>
             <li>CSS(Bootstrap,Sass)</li>
-            <li>JS(ES7 syntax, React-Redux, jQuery, TS)</li>
-            <li>Other(AP,Git,BEM,npm,webpack)</li>
+            <li>JS(React-Redux, Vue-Vuex, TS)</li>
+            <li>Other(AP,Git,BEM,npm,webpack,Jira)</li>
           </ul>
         </div>
       </div>
