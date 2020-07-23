@@ -131,6 +131,14 @@ const myProjectsCards = [
 ];
 const tutorialProjectCards = [
   {
+    image: require("./img/cards/myproj/blog.jpg"),
+    title: "Angular Blog",
+    desc: "Angular blog. (put /admin to url).",
+    repo: "https://github.com/ZloyBatarejka/angular-blog",
+    page: "https://angularblog-ac695.firebaseapp.com/",
+    id: (Math.random() * 1e8).toString(16),
+  },
+  {
     image: require("./img/cards/myproj/quiz.jpg"),
     title: "Quiz",
     desc: `React tutorial project`,

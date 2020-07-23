@@ -16,6 +16,7 @@
   box-shadow: 1.2px 7px 12.1px rgba(0, 0, 0, 0.54);
   animation: popup ease-out;
   animation-duration: 0.5s;
+  margin-bottom: 10px !important;
 }
 .Card:hover {
   transform: scale(1.01);
