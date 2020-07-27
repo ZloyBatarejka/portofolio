@@ -7,12 +7,11 @@ const About = () => (
       <p className="name">Yakovlev Ruslan</p>
       <div className="infoBox">
         <div className="header">
-          <h4>About me</h4>
+          <h4>Experience</h4>
         </div>
         <div className="content">
           <p>
-            I am 24 years old. I'm ready to
-            relocate.
+            Frontend develeoper: Takeoff-staff, 08.06.20 - c.t.
           </p>
         </div>
       </div>
@@ -28,11 +27,11 @@ const About = () => (
       </div>
       <div className="infoBox">
         <div className="header">
-          <h4>Experience</h4>
+          <h4>About me</h4>
         </div>
         <div className="content">
           <ul>
-            <li>Frontend develeoper: Takeoff-staff, 08.06.20 - c.t.</li>
+            <li>Im ready to relocate</li>
           </ul>
         </div>
       </div>
@@ -43,7 +42,7 @@ const About = () => (
         <div className="content">
           <ul>
             <li>HTML5(pug)</li>
-            <li>CSS(Bootstrap,Sass)</li>
+            <li>CSS(Bootstrap,SCSS)</li>
             <li>JS(React-Redux, Vue-Vuex, TS)</li>
             <li>Other(AP,Git,BEM,npm,webpack,Jira)</li>
           </ul>

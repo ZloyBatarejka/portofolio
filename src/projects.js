@@ -32,6 +32,14 @@ const myProjectsCards = [
     id: (Math.random() * 1e8).toString(16),
   },
   {
+    image: require("./img/cards/myproj/books.jpg"),
+    title: "Books",
+    desc: "Angular + FB auth/database",
+    repo: "https://github.com/ZloyBatarejka/angular-books",
+    page: "https://angular-books-88d06.firebaseapp.com/",
+    id: (Math.random() * 1e8).toString(16),
+  },
+  {
     image: require("./img/cards/myproj/ask.jpg"),
     title: "ASkme",
     desc: "Askme project. Firebase host/database. Check info for password",
