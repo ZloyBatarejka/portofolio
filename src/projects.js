@@ -1,3 +1,5 @@
+import {idGenerator} from './utils';
+const idIterator = idGenerator();
 const myProjectsCards = [
   {
     image: require("./img/cards/myproj/moviefave.jpg"),
@@ -5,7 +7,7 @@ const myProjectsCards = [
     desc: "React-Redux+TypeScript project. Firebase Auth/DB.",
     repo: "https://github.com/ZloyBatarejka/moviefave",
     page: "https://moviefave-56a11.firebaseapp.com/",
-    id: (Math.random() * 1e8).toString(16),
+    id: idIterator.next().value,
   },
   {
     image: require("./img/cards/myproj/contacts.jpg"),
@@ -13,7 +15,7 @@ const myProjectsCards = [
     desc: "React-Redux+TypeScript project. Firebase Auth.",
     repo: "https://github.com/ZloyBatarejka/contacts",
     page: "https://contacts-d78e8.firebaseapp.com/",
-    id: (Math.random() * 1e8).toString(16),
+    id: idIterator.next().value,
   },
   {
     image: require("./img/cards/myproj/squares.jpg"),
@@ -21,7 +23,7 @@ const myProjectsCards = [
     desc: "React-Redux+TypeScript project. Guess game.",
     repo: "https://github.com/ZloyBatarejka/squares",
     page: "https://zloybatarejka.github.io/squares/",
-    id: (Math.random() * 1e8).toString(16),
+    id: idIterator.next().value,
   },
   {
     image: require("./img/cards/myproj/todo.jpg"),
@@ -29,7 +31,7 @@ const myProjectsCards = [
     desc: "React-Redux (+eslint) TODO. Firebase DB.",
     repo: "https://github.com/ZloyBatarejka/betterToDo",
     page: "https://todo-eb35e.firebaseapp.com/",
-    id: (Math.random() * 1e8).toString(16),
+    id: idIterator.next().value,
   },
   {
     image: require("./img/cards/myproj/books.jpg"),
@@ -37,7 +39,7 @@ const myProjectsCards = [
     desc: "Angular + FB auth/database",
     repo: "https://github.com/ZloyBatarejka/angular-books",
     page: "https://angular-books-88d06.firebaseapp.com/",
-    id: (Math.random() * 1e8).toString(16),
+    id: idIterator.next().value,
   },
   {
     image: require("./img/cards/myproj/ask.jpg"),
@@ -45,7 +47,7 @@ const myProjectsCards = [
     desc: "Askme project. Firebase host/database. Check info for password",
     repo: "https://github.com/ZloyBatarejka/ASKme",
     page: "https://askme-a22dc.firebaseapp.com/",
-    id: (Math.random() * 1e8).toString(16),
+    id: idIterator.next().value,
   },
   {
     image: require("./img/cards/myproj/video.jpg"),
@@ -53,7 +55,7 @@ const myProjectsCards = [
     desc: "Video hosting Layour with custom JS",
     repo: "https://github.com/ZloyBatarejka/movieTv",
     page: "https://videotest-bbbf6.firebaseapp.com/",
-    id: (Math.random() * 1e8).toString(16),
+    id: idIterator.next().value,
   },
   {
     image: require("./img/cards/myproj/typing.jpg"),
@@ -61,7 +63,7 @@ const myProjectsCards = [
     desc: "Speed typing app, 3 options: 1,2,3 min",
     repo: "https://github.com/ZloyBatarejka/ST",
     page: "https://zloybatarejka.github.io/ST/type.html",
-    id: (Math.random() * 1e8).toString(16),
+    id: idIterator.next().value,
   },
 
   {
@@ -70,7 +72,7 @@ const myProjectsCards = [
     desc: "Ctulhu bestiary. Dynamic page.",
     repo: "https://github.com/ZloyBatarejka/Ctulhu",
     page: "https://zloybatarejka.github.io/Ctulhu/index.html",
-    id: (Math.random() * 1e8).toString(16),
+    id: idIterator.next().value,
   },
   {
     image: require("./img/cards/myproj/wakanda.jpg"),
@@ -78,7 +80,7 @@ const myProjectsCards = [
     desc: `Layout with custom JS`,
     repo: "https://github.com/ZloyBatarejka/notWakanda",
     page: "https://notwakanda.firebaseapp.com/",
-    id: (Math.random() * 1e8).toString(16),
+    id: idIterator.next().value,
   },
   {
     image: require("./img/cards/myproj/lightbox.jpg"),
@@ -86,7 +88,7 @@ const myProjectsCards = [
     desc: "Image lightbox, arrow keys and buttons to slide.",
     repo: "https://github.com/ZloyBatarejka/Lightbox",
     page: "https://zloybatarejka.github.io/Lightbox/image.html",
-    id: (Math.random() * 1e8).toString(16),
+    id: idIterator.next().value,
   },
   {
     image: require("./img/cards/myproj/boxShadow.jpg"),
@@ -94,7 +96,7 @@ const myProjectsCards = [
     desc: "Shadow box sand-box. Range controllers.",
     repo: "https://github.com/ZloyBatarejka/BoxShadow",
     page: "https://zloybatarejka.github.io/BoxShadow/test.html",
-    id: (Math.random() * 1e8).toString(16),
+    id: idIterator.next().value,
   },
   {
     image: require("./img/cards/myproj/mouseover.jpg"),
@@ -102,7 +104,7 @@ const myProjectsCards = [
     desc: "Move mouse over squares to change their color.",
     repo: "https://github.com/ZloyBatarejka/mouseOver",
     page: "https://zloybatarejka.github.io/mouseOver/mouse.html",
-    id: (Math.random() * 1e8).toString(16),
+    id: idIterator.next().value,
   },
   {
     image: require("./img/cards/myproj/witcher.jpg"),
@@ -110,7 +112,7 @@ const myProjectsCards = [
     desc: `"Choose your figher" simulator`,
     repo: "https://github.com/ZloyBatarejka/Witcher",
     page: "https://zloybatarejka.github.io/Witcher/index.html",
-    id: (Math.random() * 1e8).toString(16),
+    id: idIterator.next().value,
   },
   {
     image: require("./img/cards/myproj/clock.jpg"),
@@ -118,7 +120,7 @@ const myProjectsCards = [
     desc: `Analog clock`,
     repo: "https://github.com/ZloyBatarejka/clock",
     page: "https://zloybatarejka.github.io/clock/test.html",
-    id: (Math.random() * 1e8).toString(16),
+    id: idIterator.next().value,
   },
   {
     image: require("./img/cards/myproj/keycode.jpg"),
@@ -126,7 +128,7 @@ const myProjectsCards = [
     desc: "Press key to get Key, Code, Key code.",
     repo: "https://github.com/ZloyBatarejka/EventCode",
     page: "https://zloybatarejka.github.io/EventCode/timer.html",
-    id: (Math.random() * 1e8).toString(16),
+    id: idIterator.next().value,
   },
   {
     image: require("./img/cards/myproj/calculator.jpg"),
@@ -134,7 +136,7 @@ const myProjectsCards = [
     desc: "Simple calculator. Built with CSS Grid.",
     repo: "https://github.com/ZloyBatarejka/Calc",
     page: "https://zloybatarejka.github.io/Calc/test.html",
-    id: (Math.random() * 1e8).toString(16),
+    id: idIterator.next().value,
   },
 ];
 const tutorialProjectCards = [
@@ -144,7 +146,7 @@ const tutorialProjectCards = [
     desc: "Angular blog. (put /admin to url).",
     repo: "https://github.com/ZloyBatarejka/angular-blog",
     page: "https://angularblog-ac695.firebaseapp.com/",
-    id: (Math.random() * 1e8).toString(16),
+    id: idIterator.next().value,
   },
   {
     image: require("./img/cards/myproj/quiz.jpg"),
@@ -152,7 +154,7 @@ const tutorialProjectCards = [
     desc: `React tutorial project`,
     repo: "https://github.com/ZloyBatarejka/quiz",
     page: "https://zloybatarejka.github.io/quiz",
-    id: (Math.random() * 1e8).toString(16),
+    id: idIterator.next().value,
   },
   {
     image: require("./img/cards/myproj/git.jpg"),
@@ -160,7 +162,7 @@ const tutorialProjectCards = [
     desc: `React tutorial project`,
     repo: "https://github.com/ZloyBatarejka/gitSearch",
     page: "https://githubsearch-a88e7.firebaseapp.com/",
-    id: (Math.random() * 1e8).toString(16),
+    id: idIterator.next().value,
   },
   {
     image: require("./img/cards/myproj/bitcoin.jpg"),
@@ -168,7 +170,7 @@ const tutorialProjectCards = [
     desc: `TS React+Mobx crypto currency table with autoupdate`,
     repo: "https://github.com/ZloyBatarejka/bitcoin",
     page: "https://askme-adbf2.firebaseapp.com/",
-    id: (Math.random() * 1e8).toString(16),
+    id: idIterator.next().value,
   },
   {
     image: require("./img/cards/myproj/tictactoe.jpg"),
@@ -176,7 +178,7 @@ const tutorialProjectCards = [
     desc: `TicTacToe with scoreboard`,
     repo: "https://github.com/ZloyBatarejka/tictactoe",
     page: "https://zloybatarejka.github.io/tictactoe/ttt.html",
-    id: (Math.random() * 1e8).toString(16),
+    id: idIterator.next().value,
   },
   {
     image: require("./img/cards/myproj/revolution.jpg"),
@@ -184,7 +186,7 @@ const tutorialProjectCards = [
     desc: `Animate by scrolling. (ScrollMagic library)`,
     repo: "https://github.com/ZloyBatarejka/scroll",
     page: "https://zloybatarejka.github.io/scroll/test.html",
-    id: (Math.random() * 1e8).toString(16),
+    id: idIterator.next().value,
   },
   {
     image: require("./img/cards/myproj/bird.jpg"),
@@ -192,7 +194,7 @@ const tutorialProjectCards = [
     desc: `Flappy bird game. Use any key to jump.`,
     repo: "https://github.com/ZloyBatarejka/bird",
     page: "https://zloybatarejka.github.io/bird/test.html",
-    id: (Math.random() * 1e8).toString(16),
+    id: idIterator.next().value,
   },
 
   {
@@ -201,7 +203,7 @@ const tutorialProjectCards = [
     desc: `Floating dots`,
     repo: "https://github.com/ZloyBatarejka/dots",
     page: "https://zloybatarejka.github.io/dots/test.html",
-    id: (Math.random() * 1e8).toString(16),
+    id: idIterator.next().value,
   },
   {
     image: require("./img/cards/myproj/password.jpg"),
@@ -209,7 +211,7 @@ const tutorialProjectCards = [
     desc: `Random password generator`,
     repo: "https://github.com/ZloyBatarejka/password",
     page: "https://zloybatarejka.github.io/password/pass.html",
-    id: (Math.random() * 1e8).toString(16),
+    id: idIterator.next().value,
   },
 
   {
@@ -218,7 +220,7 @@ const tutorialProjectCards = [
     desc: `Press colored button to get sound`,
     repo: "https://github.com/ZloyBatarejka/sound",
     page: "https://zloybatarejka.github.io/sound/index.html",
-    id: (Math.random() * 1e8).toString(16),
+    id: idIterator.next().value,
   },
   {
     image: require("./img/cards/myproj/snake.jpg"),
@@ -226,7 +228,7 @@ const tutorialProjectCards = [
     desc: `Snake game, canvas tutorial project`,
     repo: "https://github.com/ZloyBatarejka/snake",
     page: "https://zloybatarejka.github.io/snake/test.html",
-    id: (Math.random() * 1e8).toString(16),
+    id: idIterator.next().value,
   },
 ];
 const landingProjectCards = [
@@ -236,7 +238,7 @@ const landingProjectCards = [
     desc: `Practising flexbox and custom grid`,
     repo: "https://github.com/ZloyBatarejka/solomusic",
     page: "https://zloybatarejka.github.io/solomusic/solo.html",
-    id: (Math.random() * 1e8).toString(16),
+    id: idIterator.next().value,
   },
   {
     image: require("./img/cards/myproj/red.jpg"),
@@ -244,7 +246,7 @@ const landingProjectCards = [
     desc: `Practising SASS`,
     repo: "https://github.com/ZloyBatarejka/reds",
     page: "https://zloybatarejka.github.io/reds/test.html",
-    id: (Math.random() * 1e8).toString(16),
+    id: idIterator.next().value,
   },
   {
     image: require("./img/cards/myproj/sen.jpg"),
@@ -252,7 +254,7 @@ const landingProjectCards = [
     desc: `Practising bootstrap`,
     repo: "https://github.com/ZloyBatarejka/sennheiser",
     page: "https://zloybatarejka.github.io/sennheiser/sen.html ",
-    id: (Math.random() * 1e8).toString(16),
+    id: idIterator.next().value,
   },
   {
     image: require("./img/cards/myproj/bootstrain.jpg"),
@@ -260,7 +262,7 @@ const landingProjectCards = [
     desc: `Practising bootstrap`,
     repo: "https://github.com/ZloyBatarejka/bootstrain",
     page: "https://zloybatarejka.github.io/bootstrain/index.html",
-    id: (Math.random() * 1e8).toString(16),
+    id: idIterator.next().value,
   },
   {
     image: require("./img/cards/myproj/bt4.jpg"),
@@ -268,7 +270,7 @@ const landingProjectCards = [
     desc: `Practising bootstrap`,
     repo: "https://github.com/ZloyBatarejka/bt4again",
     page: "https://zloybatarejka.github.io/bt4again/index.html",
-    id: (Math.random() * 1e8).toString(16),
+    id: idIterator.next().value,
   },
   {
     image: require("./img/cards/myproj/maddyson.jpg"),
@@ -276,7 +278,7 @@ const landingProjectCards = [
     desc: `Practising bootstrap`,
     repo: "https://github.com/ZloyBatarejka/maddyson",
     page: "https://zloybatarejka.github.io/maddyson/index.html",
-    id: (Math.random() * 1e8).toString(16),
+    id: idIterator.next().value,
   },
   {
     image: require("./img/cards/myproj/no.jpg"),
@@ -284,7 +286,7 @@ const landingProjectCards = [
     desc: `Practising bootstrap`,
     repo: "https://github.com/ZloyBatarejka/no-no",
     page: "https://zloybatarejka.github.io/no-no/index.html",
-    id: (Math.random() * 1e8).toString(16),
+    id: idIterator.next().value,
   },
   {
     image: require("./img/cards/myproj/again.jpg"),
@@ -292,16 +294,8 @@ const landingProjectCards = [
     desc: `Practising bootstrap`,
     repo: "https://github.com/ZloyBatarejka/herewego",
     page: "https://zloybatarejka.github.io/herewego/index.html",
-    id: (Math.random() * 1e8).toString(16),
+    id: idIterator.next().value,
   },
 ];
 export { myProjectsCards, tutorialProjectCards, landingProjectCards };
 
-// {
-//   image: require("./img/cards/myproj/football.jpg"),
-//   title: "Football",
-//   desc: "React project, football table with custom API (localhost only).",
-//   repo: "https://github.com/ZloyBatarejka/ZloyBatarejka",
-//   page: "https://football-4e3ae.firebaseapp.com/",
-//   id: (Math.random() * 1e8).toString(16),
-// },

@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import "./card.css";
 import Img from "react-image";
 class Card extends Component {
+
   render() {
     return (
       <div className="Card">
