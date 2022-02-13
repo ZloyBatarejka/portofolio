@@ -7,7 +7,7 @@ class App extends Component {
   //TODO SOME LOGIC
   render() {
     return (
-      <div className="wrapper" id="dsdsd">
+      <div className="wrapper" id="dsdssssd">
         <Sidebar />
         <Main />
         <Footer />
